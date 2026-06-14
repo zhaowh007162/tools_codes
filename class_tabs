@@ -1,0 +1,30 @@
+[
+  {
+    "filter": "SetSelectedIndex",
+    "filterByClass": false,
+    "filterByField": false,
+    "filterByMethod": true,
+    "filterByMethodReturnType": false,
+    "filterByMethodName": true,
+    "filterByMethodParam": false,
+    "filterExact": false,
+    "showAllClasses": true,
+    "includeAllImages": true,
+    "caseSensitive": true,
+    "selectedImage": "Assembly-CSharp.dll"
+  },
+  {
+    "filter": "SetSelectedIndex",
+    "filterByClass": false,
+    "filterByField": false,
+    "filterByMethod": true,
+    "filterByMethodReturnType": false,
+    "filterByMethodName": true,
+    "filterByMethodParam": false,
+    "filterExact": false,
+    "showAllClasses": true,
+    "includeAllImages": true,
+    "caseSensitive": false,
+    "selectedImage": "Assembly-CSharp.dll"
+  }
+]
